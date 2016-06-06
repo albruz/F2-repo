@@ -3,3 +3,4 @@ Se riuscite a leggere questo allora il repository funziona correttamente.
 Funziona tutto correttamente.
 Devo ancora capire come far funzionare al meglio tutti i branches.
 Prova Merge con master.
+Seconda prova merge con master.
