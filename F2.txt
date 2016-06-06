@@ -1,0 +1,2 @@
+Questo è il primo documento del nuovo repository di F2 informatica.
+Se riuscite a leggere questo allora il repository funziona correttamente.
