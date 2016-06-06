@@ -2,3 +2,4 @@ Questo è il file di test che se visualizzato correttamente prova che tutto è c
 Questa è la prova di merge con il master.
 Questo è il file del branch test aggiornato dopo pranzo.
 Ultima prova del ramo test.
+Altra prova test.
