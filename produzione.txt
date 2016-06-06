@@ -1,3 +1,4 @@
 Questo è il primo testo per il branch produzione.
 Questo è il file del branch sviluppo aggiornato.
 Questo è il file del branch produzione aggiornato dopo pranzo.
+Ultimo aggiornamento.
